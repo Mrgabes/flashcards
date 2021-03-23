@@ -1,0 +1,23 @@
+.col {
+  border: solid black 2px;
+  text-align: center;
+  padding: 15px;
+
+}
+/* 
+.word-hiding {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+} */
+
+.back1 {
+  display: none;
+}
